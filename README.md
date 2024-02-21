@@ -4,7 +4,7 @@ Ristorante Con Fusion
 
 ## Descripción
 
-Introducción a desarrollo web con HTML + Bootstrap + SASS/LESS. Realizado para el curso "Front-End Web UI Frameworks and Tools: Bootstrap 4" ofrecido por The Hong Kong University of Science and Technology en Coursera.
+Introducción a desarrollo web con HTML + Bootstrap 4 + SASS/LESS. Realizado para el curso "Front-End Web UI Frameworks and Tools: Bootstrap 4" ofrecido por The Hong Kong University of Science and Technology en Coursera.
 
 
 ## Instalación y uso
